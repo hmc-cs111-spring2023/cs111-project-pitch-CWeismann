@@ -59,13 +59,12 @@ of cards, then build up from there.
 My plan is to slowly look at more and more complex games, and figure out what makes them not possible on my 
 current iteration of the language, then add new features that makes it possible, e.g. Hearts -> Poker -> Chess -> 
 Catan -> Agricola -> Root, or something like that. If I find success fairly early, I'm confident that there are a 
-lot of ways to build on this project to make it more user friendly, so I doubt that the scale of this project will 
-be too small or that I'll finish early.
+lot of ways to build on this project to make it more user friendly, so I doubt that the scale of this project 
+will be too small or that I'll finish early.
 
-Scheduling-wise, I'll probably assess what I need to do for the week during in-class worktime on Monday, read
-through Tuesday's feedback in class on Wednesday and modify my plan, then do the bulk of my work during the day
-on Wednesday night and Saturday, stretching over into Sunday if I'm feeling particularly passionate or am stuck
-on something.
+Scheduling-wise, I'll probably assess what I need to do for the week on Monday, read through Tuesday's feedback 
+in class on Wednesday and modify my plan, then do the bulk of my work during the day on Wednesday night and 
+Saturday, stretching over into Sunday if I'm feeling particularly passionate or am stuck on something.
 
 ## Teamwork plan
 
