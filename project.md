@@ -158,7 +158,7 @@ this project. The vast majority of the programmer's time should be able to be
 spent on language design systems. Most of the actual "gameplay" is just 
 manipulating items in nested lists and sets, but the design isn't necessarily 
 so clear-cut. I expect to have a loop of about 70% design, 30% implementation, 
-then test and repeat.
+then test and repeat. My plan is to write an internal DSL in Scala, which should reduce implementation time somewhat, leaving me more space for design.
 
 ### Scope
 
